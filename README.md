@@ -1,7 +1,7 @@
 PHP-Registration-Form
 
 
-User registration form with PHP and MySQL PHP contac
+User registration form with PHP and MySQL PHP contact
 form Bootstrap form with PHP.
 
  registration form ku salaysan php <br>
