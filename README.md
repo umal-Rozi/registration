@@ -1,4 +1,4 @@
-PHP-Registration-For
+PHP-Registration-Form
 
 
 User registration form with PHP and MySQL PHP contact
